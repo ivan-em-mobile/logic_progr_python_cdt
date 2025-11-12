@@ -1,0 +1,19 @@
+2020;O Homem Invisível;Terror / Ficção Científica;Uma mulher tenta provar que está sendo perseguida por seu ex-namorado, um cientista que desenvolveu um traje de invisibilidade.
+2020;O Céu da Meia-Noite;Ficção Científica;Um cientista solitário no Ártico tenta impedir que uma equipe de astronautas retorne à Terra após um desastre global, enquanto enfrenta as consequências da solidão e do fim do mundo.
+2020;Bad Boys Para Sempre;Ação / Comédia;Os policiais Mike e Marcus se juntam a recém-criada equipe de elite do departamento de polícia de Miami para derrubar o líder de um cartel de drogas da cidade.
+2017;Jogador N° 1;Ficção Científica;Em um futuro onde as pessoas ficam muito tempo na realidade virtual, existe uma guerra para achar um easter egg e herdar toda realidade.
+2010;A Origem;Ficção Científica / Thriller;Thriller de ficção científica que explora sonhos e a manipulação da mente.
+1999;Matrix;Ficção Científica;Um hacker descobre que a realidade é uma simulação controlada por máquinas.
+2008;Batman: O Cavaleiro das Trevas;Ação / Super-Herói;Batman enfrenta o Coringa, um criminoso anárquico que ameaça Gotham City.
+1985;De Volta para o Futuro;Ficção Científica;Um adolescente viaja acidentalmente para 1955 na máquina do tempo DeLorean e precisa garantir que seus pais se apaixonem para salvar sua própria existência.
+1994;Forrest Gump;Drama / Comédia;A vida extraordinária de Forrest Gump, um homem com QI baixo que, apesar de suas limitações, influencia eventos históricos e vive aventuras incríveis.
+2000;X-Men;Ficção Científica;Mutantes com poderes extraordinários se dividem entre a visão pacífica do Professor Xavier e o plano de dominação mundial de Magneto, com Wolverine e Rogue no centro do conflito.
+2000;Gladiador;Épico Histórico / Vingança;Um general romano, traído e escravizado após o assassinato do imperador, se torna um gladiador famoso em busca de vingança contra o novo imperador, Commodus.
+2014;Interestelar;Ficção Científica;Um grupo de astronautas viaja por um buraco de minhoca em busca de um novo lar para a humanidade, enquanto o tempo e o amor desafiam as leis da física.
+2017;Blade Runner 2049;Ficção Científica;Um novo caçador de androides descobre um segredo enterrado há décadas que pode mudar o destino da humanidade e dos replicantes.
+2020;Tenet;Ação e Ficção Científica;Um agente é recrutado para impedir a Terceira Guerra Mundial usando uma tecnologia que inverte o fluxo do tempo.
+2020;Sonic: O Filme;Aventura e Comédia;Sonic, um ouriço veloz de outro planeta, se une a um policial para escapar do Dr. Robotnik e salvar o mundo.
+2020;Soul;Animação/Aventura;Um músico de jazz em Nova York luta para reunir sua alma e seu corpo.
+2018;O retorno;Suspense;O retorno do filme
+1997;Heiteen - O filme;Drama / Musical;O filme Emo
+2000;Novos Baianos;Musical;Escrever por completo sobre o filme.
