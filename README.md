@@ -15,6 +15,7 @@ Nosso objetivo é transformar o conhecimento teórico em prática com exemplos c
 ## 🛠️ Tecnologias Utilizadas
 
 * **Python:** Linguagem de programação principal, escolhida por sua sintaxe limpa e legibilidade, sendo ideal para iniciantes.
+* (import - pyinstaller)
 
 ## 🚀 Como Começar
 
