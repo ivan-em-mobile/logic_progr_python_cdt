@@ -2,6 +2,7 @@ import random
 
 # --- BANCO DE DADOS (ESTRUTURAS BÁSICAS) ---
 clientes = {} # Nome: quantidade de pedidos
+
 cardapio = {
     '1': ('Combo Classico Burger + Batata', 28.90),
     '2': ('Combo Bacon Burger + Batata', 32.90),
